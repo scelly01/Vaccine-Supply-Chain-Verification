@@ -4,4 +4,6 @@
  
  Used concept of Certificates, Vaccine Batches and entitities (Issuer, Prover, Verifier) involved in the supply chain.
  
- Developed ColdChain smart contract and CryptoSUite library using Solidity.
+ Developed ColdChain smart contract and CryptoSuite library using Solidity.
+
+![image](https://github.com/scelly01/Vaccine-Supply-Chain-Verification/assets/92203911/6acd6ae1-face-4658-a551-5d51d1494442)
